@@ -5,9 +5,7 @@ const request = require('request');
 const toc = require('markdown-toc');
 
 const data = [];
-const top = '[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)';
-
-data.push('# 3D Wiki');
+const top = '[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)';
 
 data.push(`
 ## External Links&nbsp;${top}

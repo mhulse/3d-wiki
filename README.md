@@ -1,14 +1,13 @@
-# 3D Wiki
 
-## External Links&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+## External Links&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - My Blender YouTube channel: [TL;DR – 3D](https://www.youtube.com/channel/UCFoE0SgDe0t82Ra2UAit57Q)
 
-## [Dope Sheet Actions Animation](../../wiki/Dope-Sheet-Actions-Animation)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+## [Dope Sheet Actions Animation](../../wiki/Dope-Sheet-Actions-Animation)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Basic commands in Dope Sheet view:](../../wiki/Dope-Sheet-Actions-Animation#basic-commands-in-dope-sheet-view)
 - [Dope Sheet Basic usage](../../wiki/Dope-Sheet-Actions-Animation#dope-sheet-basic-usage)
 
 
-## [Fundamentals](../../wiki/Fundamentals)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+## [Fundamentals](../../wiki/Fundamentals)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Blender Quick Start](../../wiki/Fundamentals#blender-quick-start)
 - [General 3d mesh concepts](../../wiki/Fundamentals#general-3d-mesh-concepts)
   * [Ngons vs. Tris vs. Quads](../../wiki/Fundamentals#ngons-vs-tris-vs-quads)
@@ -20,7 +19,7 @@
 - [Cleaning up your mesh](../../wiki/Fundamentals#cleaning-up-your-mesh)
 
 
-## [My 2016 addons, key bindings and prefs](../../wiki/My-2016-addons,-key-bindings-and-prefs)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+## [My 2016 addons, key bindings and prefs](../../wiki/My-2016-addons,-key-bindings-and-prefs)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Add-ons](../../wiki/My-2016-addons,-key-bindings-and-prefs#add-ons)
   * [Free](../../wiki/My-2016-addons,-key-bindings-and-prefs#free)
   * [Paid](../../wiki/My-2016-addons,-key-bindings-and-prefs#paid)
@@ -33,13 +32,13 @@
 - [Links](../../wiki/My-2016-addons,-key-bindings-and-prefs#links)
 
 
-## [Rigging](../../wiki/Rigging)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+## [Rigging](../../wiki/Rigging)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Prepping mesh for rig](../../wiki/Rigging#prepping-mesh-for-rig)
 - [Quick start TL;DR](../../wiki/Rigging#quick-start-tldr)
 - [Links](../../wiki/Rigging#links)
 
 
-## [Setting up a Unity project for Git](../../wiki/Setting-up-a-Unity-project-for-Git)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+## [Setting up a Unity project for Git](../../wiki/Setting-up-a-Unity-project-for-Git)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [About](../../wiki/Setting-up-a-Unity-project-for-Git#about)
   * [Add Unity-specific `.gitignore` settings](../../wiki/Setting-up-a-Unity-project-for-Git#add-unity-specific-gitignore-settings)
   * [Configure Unity for version control](../../wiki/Setting-up-a-Unity-project-for-Git#configure-unity-for-version-control)
@@ -47,7 +46,7 @@
 - [Links](../../wiki/Setting-up-a-Unity-project-for-Git#links)
 
 
-## [Tips, tricks, techniques and notes](../../wiki/Tips,-tricks,-techniques-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+## [Tips, tricks, techniques and notes](../../wiki/Tips,-tricks,-techniques-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Shade smooth, bevel and split](../../wiki/Tips,-tricks,-techniques-and-notes#shade-smooth-bevel-and-split)
 - [Blender 2.77: Create new vertex, edge or planar face](../../wiki/Tips,-tricks,-techniques-and-notes#blender-277-create-new-vertex-edge-or-planar-face)
 - [Duplicate and Mirror mesh](../../wiki/Tips,-tricks,-techniques-and-notes#duplicate-and-mirror-mesh)
@@ -128,7 +127,7 @@
 - [Maths in Blender fields](../../wiki/Tips,-tricks,-techniques-and-notes#maths-in-blender-fields)
 
 
-## [Unity tips and notes](../../wiki/Unity-tips-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+## [Unity tips and notes](../../wiki/Unity-tips-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Get Unity version of project without opening it](../../wiki/Unity-tips-and-notes#get-unity-version-of-project-without-opening-it)
 - [Multiple versions of Unity](../../wiki/Unity-tips-and-notes#multiple-versions-of-unity)
 - [Blender/Unity Asset Organization](../../wiki/Unity-tips-and-notes#blenderunity-asset-organization)
@@ -143,7 +142,7 @@
 - [Colors](../../wiki/Unity-tips-and-notes#colors)
 
 
-## [UV Unwrapping Tips](../../wiki/UV-Unwrapping-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+## [UV Unwrapping Tips](../../wiki/UV-Unwrapping-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Blender UV Unwrapping](../../wiki/UV-Unwrapping-Tips#blender-uv-unwrapping)
 - [To be sorted:](../../wiki/UV-Unwrapping-Tips#to-be-sorted)
 
