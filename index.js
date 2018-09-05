@@ -2,17 +2,23 @@ const fs = require('fs-extra');
 const glob = require('glob');
 const unzip = require('unzip');
 const request = require('request');
+const toc = require('markdown-toc');
 
 const data = [];
 
 glob.sync('**/*.md', { cwd: `./wiki` }).forEach((file, i) => {
 
-  console.log(file, i);
-  file = file.replace('.md', '');
+  let title = file.replace('.md', '');
 
-  if (file != 'Home') {
+  if (title != 'Home') {
 
-    data.push(`## [${file.replace(/-/g, ' ')}](../../wiki/${file.replace(/\s/g, '-')})`);
+    console.log(title);
+
+    data.push(`## [${title.replace(/-/g, ' ')}](../../wiki/${title.replace(/\s/g, '-')})`);
+
+    data.push('\n');
+
+    data.push(toc(fs.readFileSync('./wiki/' + file, 'utf8')).content);
 
   }
 
