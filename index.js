@@ -5,6 +5,14 @@ const request = require('request');
 const toc = require('markdown-toc');
 
 const data = [];
+const top = '[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)';
+
+data.push('# 3D Wiki');
+
+data.push(`
+## External Links&nbsp;${top}
+- My Blender YouTube channel: [TL;DR – 3D](https://www.youtube.com/channel/UCFoE0SgDe0t82Ra2UAit57Q)
+`)
 
 glob.sync('**/*.md', { cwd: `./wiki` }).forEach((file, i) => {
 
@@ -14,9 +22,7 @@ glob.sync('**/*.md', { cwd: `./wiki` }).forEach((file, i) => {
 
     console.log(title);
 
-    data.push(`## [${title.replace(/-/g, ' ')}](../../wiki/${title.replace(/\s/g, '-')})`);
-
-    data.push('\n');
+    data.push(`## [${title.replace(/-/g, ' ')}](../../wiki/${title.replace(/\s/g, '-')})&nbsp;${top}`);
 
     data.push(
       toc(fs.readFileSync('./wiki/' + file, 'utf8'), {

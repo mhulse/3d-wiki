@@ -1,13 +1,14 @@
-## [Dope Sheet Actions Animation](../../wiki/Dope-Sheet-Actions-Animation)
+# 3D Wiki
 
+## External Links&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+- My Blender YouTube channel: [TL;DR – 3D](https://www.youtube.com/channel/UCFoE0SgDe0t82Ra2UAit57Q)
 
+## [Dope Sheet Actions Animation](../../wiki/Dope-Sheet-Actions-Animation)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
 - [Basic commands in Dope Sheet view:](../../wiki/Dope-Sheet-Actions-Animation#basic-commands-in-dope-sheet-view)
 - [Dope Sheet Basic usage](../../wiki/Dope-Sheet-Actions-Animation#dope-sheet-basic-usage)
 
 
-## [Fundamentals](../../wiki/Fundamentals)
-
-
+## [Fundamentals](../../wiki/Fundamentals)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
 - [Blender Quick Start](../../wiki/Fundamentals#blender-quick-start)
 - [General 3d mesh concepts](../../wiki/Fundamentals#general-3d-mesh-concepts)
   * [Ngons vs. Tris vs. Quads](../../wiki/Fundamentals#ngons-vs-tris-vs-quads)
@@ -19,32 +20,34 @@
 - [Cleaning up your mesh](../../wiki/Fundamentals#cleaning-up-your-mesh)
 
 
-## [My 2016 add ons, key binding mods and other user prefs](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs)
+## [My 2016 addons, key bindings and prefs](../../wiki/My-2016-addons,-key-bindings-and-prefs)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+- [Add-ons](../../wiki/My-2016-addons,-key-bindings-and-prefs#add-ons)
+  * [Free](../../wiki/My-2016-addons,-key-bindings-and-prefs#free)
+  * [Paid](../../wiki/My-2016-addons,-key-bindings-and-prefs#paid)
+- [Backup prefs](../../wiki/My-2016-addons,-key-bindings-and-prefs#backup-prefs)
+- [Pie menu](../../wiki/My-2016-addons,-key-bindings-and-prefs#pie-menu)
+- [MacOS keyboard mods](../../wiki/My-2016-addons,-key-bindings-and-prefs#macos-keyboard-mods)
+- [Blender keyboard mods](../../wiki/My-2016-addons,-key-bindings-and-prefs#blender-keyboard-mods)
+  * [3D View / 3D View Global](../../wiki/My-2016-addons,-key-bindings-and-prefs#3d-view--3d-view-global)
+- [Preferences](../../wiki/My-2016-addons,-key-bindings-and-prefs#preferences)
+- [Links](../../wiki/My-2016-addons,-key-bindings-and-prefs#links)
 
 
-- [Add-ons](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#add-ons)
-  * [Free](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#free)
-  * [Paid](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#paid)
-- [Backup prefs](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#backup-prefs)
-- [Pie menu](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#pie-menu)
-- [MacOS keyboard mods](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#macos-keyboard-mods)
-- [Blender keyboard mods](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#blender-keyboard-mods)
-  * [3D View / 3D View Global](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#3d-view--3d-view-global)
-- [Preferences](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#preferences)
-- [Links](../../wiki/My-2016-add-ons,-key-binding-mods-and-other-user-prefs#links)
-
-
-## [Rigging](../../wiki/Rigging)
-
-
+## [Rigging](../../wiki/Rigging)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
 - [Prepping mesh for rig](../../wiki/Rigging#prepping-mesh-for-rig)
 - [Quick start TL;DR](../../wiki/Rigging#quick-start-tldr)
 - [Links](../../wiki/Rigging#links)
 
 
-## [Tips, tricks, techniques and notes](../../wiki/Tips,-tricks,-techniques-and-notes)
+## [Setting up a Unity project for Git](../../wiki/Setting-up-a-Unity-project-for-Git)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+- [About](../../wiki/Setting-up-a-Unity-project-for-Git#about)
+  * [Add Unity-specific `.gitignore` settings](../../wiki/Setting-up-a-Unity-project-for-Git#add-unity-specific-gitignore-settings)
+  * [Configure Unity for version control](../../wiki/Setting-up-a-Unity-project-for-Git#configure-unity-for-version-control)
+  * [Use Git Large File Storage](../../wiki/Setting-up-a-Unity-project-for-Git#use-git-large-file-storage)
+- [Links](../../wiki/Setting-up-a-Unity-project-for-Git#links)
 
 
+## [Tips, tricks, techniques and notes](../../wiki/Tips,-tricks,-techniques-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
 - [Shade smooth, bevel and split](../../wiki/Tips,-tricks,-techniques-and-notes#shade-smooth-bevel-and-split)
 - [Blender 2.77: Create new vertex, edge or planar face](../../wiki/Tips,-tricks,-techniques-and-notes#blender-277-create-new-vertex-edge-or-planar-face)
 - [Duplicate and Mirror mesh](../../wiki/Tips,-tricks,-techniques-and-notes#duplicate-and-mirror-mesh)
@@ -125,9 +128,9 @@
 - [Maths in Blender fields](../../wiki/Tips,-tricks,-techniques-and-notes#maths-in-blender-fields)
 
 
-## [Unity tips and notes](../../wiki/Unity-tips-and-notes)
-
-
+## [Unity tips and notes](../../wiki/Unity-tips-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
+- [Get Unity version of project without opening it](../../wiki/Unity-tips-and-notes#get-unity-version-of-project-without-opening-it)
+- [Multiple versions of Unity](../../wiki/Unity-tips-and-notes#multiple-versions-of-unity)
 - [Blender/Unity Asset Organization](../../wiki/Unity-tips-and-notes#blenderunity-asset-organization)
   * [Optimal directory structure](../../wiki/Unity-tips-and-notes#optimal-directory-structure)
   * [Other ways of doing it](../../wiki/Unity-tips-and-notes#other-ways-of-doing-it)
@@ -140,9 +143,7 @@
 - [Colors](../../wiki/Unity-tips-and-notes#colors)
 
 
-## [UV Unwrapping Tips](../../wiki/UV-Unwrapping-Tips)
-
-
+## [UV Unwrapping Tips](../../wiki/UV-Unwrapping-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#3d-wiki)
 - [Blender UV Unwrapping](../../wiki/UV-Unwrapping-Tips#blender-uv-unwrapping)
 - [To be sorted:](../../wiki/UV-Unwrapping-Tips#to-be-sorted)
 
