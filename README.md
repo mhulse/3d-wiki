@@ -176,4 +176,7 @@
 - [Unity player reference object](../../wiki/Voxel-art-in-Blender-2.79#unity-player-reference-object)
 - [Voxel/pixel unit](../../wiki/Voxel-art-in-Blender-2.79#voxelpixel-unit)
 - [Mirroring](../../wiki/Voxel-art-in-Blender-2.79#mirroring)
+- [Build your character](../../wiki/Voxel-art-in-Blender-2.79#build-your-character)
+- [TODO](../../wiki/Voxel-art-in-Blender-2.79#todo)
+- [Links](../../wiki/Voxel-art-in-Blender-2.79#links)
 
