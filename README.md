@@ -146,3 +146,12 @@
 - [Blender UV Unwrapping](../../wiki/UV-Unwrapping-Tips#blender-uv-unwrapping)
 - [To be sorted:](../../wiki/UV-Unwrapping-Tips#to-be-sorted)
 
+
+## [Voxel like art in Blender 2.79](../../wiki/Voxel-like-art-in-Blender-2.79)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+- [Grid settings](../../wiki/Voxel-like-art-in-Blender-2.79#grid-settings)
+  * [Grid snapping](../../wiki/Voxel-like-art-in-Blender-2.79#grid-snapping)
+  * [Grid size](../../wiki/Voxel-like-art-in-Blender-2.79#grid-size)
+- [Unity player reference object](../../wiki/Voxel-like-art-in-Blender-2.79#unity-player-reference-object)
+- [Voxel/pixel unit](../../wiki/Voxel-like-art-in-Blender-2.79#voxelpixel-unit)
+- [Mirroring](../../wiki/Voxel-like-art-in-Blender-2.79#mirroring)
+
