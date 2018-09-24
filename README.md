@@ -70,6 +70,7 @@
 
 ## [Tips, tricks, techniques and notes](../../wiki/Tips,-tricks,-techniques-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Shade smooth, bevel and split](../../wiki/Tips,-tricks,-techniques-and-notes#shade-smooth-bevel-and-split)
+- [Normals auto smooth](../../wiki/Tips,-tricks,-techniques-and-notes#normals-auto-smooth)
 - [Blender 2.77: Create new vertex, edge or planar face](../../wiki/Tips,-tricks,-techniques-and-notes#blender-277-create-new-vertex-edge-or-planar-face)
 - [Duplicate and Mirror mesh](../../wiki/Tips,-tricks,-techniques-and-notes#duplicate-and-mirror-mesh)
 - [Repeat last command](../../wiki/Tips,-tricks,-techniques-and-notes#repeat-last-command)
@@ -141,6 +142,7 @@
 - [Point of origin](../../wiki/Tips,-tricks,-techniques-and-notes#point-of-origin)
 - [Groups, parents and joins](../../wiki/Tips,-tricks,-techniques-and-notes#groups-parents-and-joins)
 - [Boolean](../../wiki/Tips,-tricks,-techniques-and-notes#boolean)
+- [Bool tool add-on](../../wiki/Tips,-tricks,-techniques-and-notes#bool-tool-add-on)
 - [Copy/paste](../../wiki/Tips,-tricks,-techniques-and-notes#copypaste)
 - [Plugin installation](../../wiki/Tips,-tricks,-techniques-and-notes#plugin-installation)
 - [Export SVG from Illy to Blender](../../wiki/Tips,-tricks,-techniques-and-notes#export-svg-from-illy-to-blender)
@@ -166,7 +168,7 @@
 
 ## [UV Unwrapping Tips](../../wiki/UV-Unwrapping-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Blender UV Unwrapping](../../wiki/UV-Unwrapping-Tips#blender-uv-unwrapping)
-- [To be sorted:](../../wiki/UV-Unwrapping-Tips#to-be-sorted)
+- [To be sorted](../../wiki/UV-Unwrapping-Tips#to-be-sorted)
 
 
 ## [Voxel art in Blender 2.79](../../wiki/Voxel-art-in-Blender-2.79)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
@@ -174,9 +176,12 @@
   * [Grid snapping](../../wiki/Voxel-art-in-Blender-2.79#grid-snapping)
   * [Grid size](../../wiki/Voxel-art-in-Blender-2.79#grid-size)
 - [Unity player reference object](../../wiki/Voxel-art-in-Blender-2.79#unity-player-reference-object)
-- [Voxel/pixel unit](../../wiki/Voxel-art-in-Blender-2.79#voxelpixel-unit)
-- [Mirroring](../../wiki/Voxel-art-in-Blender-2.79#mirroring)
-- [Build your character](../../wiki/Voxel-art-in-Blender-2.79#build-your-character)
+- [Voxel template object](../../wiki/Voxel-art-in-Blender-2.79#voxel-template-object)
+- [Voxel-like character](../../wiki/Voxel-art-in-Blender-2.79#voxel-like-character)
+  * [Voxel starting point](../../wiki/Voxel-art-in-Blender-2.79#voxel-starting-point)
+  * [Mirroring](../../wiki/Voxel-art-in-Blender-2.79#mirroring)
+  * [Basic character structure](../../wiki/Voxel-art-in-Blender-2.79#basic-character-structure)
+  * [Apply mirror and cleanup](../../wiki/Voxel-art-in-Blender-2.79#apply-mirror-and-cleanup)
 - [TODO](../../wiki/Voxel-art-in-Blender-2.79#todo)
 - [Links](../../wiki/Voxel-art-in-Blender-2.79#links)
 
