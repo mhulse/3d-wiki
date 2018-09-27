@@ -5,8 +5,8 @@
 - [Blender 2.78: Kinife Project Circle Shape Onto Another Object](https://www.youtube.com/watch?v=ENvNGL6lv4A)
 - [Blender 2.7.6: Duplicate and mirror selected mesh in edit mode](https://www.youtube.com/watch?v=sOD87DmdFCY)
 - [Blender 2.77: Center-align objects](https://www.youtube.com/watch?v=uFfnfs9Vo4g)
-- [Blender 2.76: Circularize faces/vertices](https://www.youtube.com/watch?v=jce8zGkHdfQ)
 - [Blender 2.77: Poke Faces](https://www.youtube.com/watch?v=rh_bmBJmp4k)
+- [Blender 2.76: Circularize faces/vertices](https://www.youtube.com/watch?v=jce8zGkHdfQ)
 - [Blender 2.78c: Move multiple faces along normals](https://www.youtube.com/watch?v=XRPkLkbyEfk)
 - [Blender 2.77: Create new vertex, edge or planar face](https://www.youtube.com/watch?v=hz82peXQXJA)
 - [Blender 2.71: Proportional Editing](https://www.youtube.com/watch?v=AWop7omBaNM)
@@ -24,9 +24,19 @@
 - [Blender 2.76: Modeling a low poly tree branch](https://www.youtube.com/watch?v=tW4rIldXUyQ)
 
 
-## [Dope Sheet Actions Animation](../../wiki/Dope-Sheet-Actions-Animation)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
-- [Basic commands in Dope Sheet view:](../../wiki/Dope-Sheet-Actions-Animation#basic-commands-in-dope-sheet-view)
-- [Dope Sheet Basic usage](../../wiki/Dope-Sheet-Actions-Animation#dope-sheet-basic-usage)
+## [Animation](../../wiki/Animation)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+- [Basic commands in Dope Sheet view:](../../wiki/Animation#basic-commands-in-dope-sheet-view)
+- [Dope Sheet Basic usage](../../wiki/Animation#dope-sheet-basic-usage)
+- [Action Editor](../../wiki/Animation#action-editor)
+- [Inherit rotation and scale](../../wiki/Animation#inherit-rotation-and-scale)
+- [Duplicate keyframes](../../wiki/Animation#duplicate-keyframes)
+- [Reverse pose paste](../../wiki/Animation#reverse-pose-paste)
+- [Play animation](../../wiki/Animation#play-animation)
+  * [End frame walk cycle](../../wiki/Animation#end-frame-walk-cycle)
+- [Hide bones](../../wiki/Animation#hide-bones)
+- [Keyframe interpolation](../../wiki/Animation#keyframe-interpolation)
+- [Breakdown slider](../../wiki/Animation#breakdown-slider)
+- [Links](../../wiki/Animation#links)
 
 
 ## [Fundamentals](../../wiki/Fundamentals)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
