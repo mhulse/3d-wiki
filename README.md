@@ -1,4 +1,4 @@
-## My Blender YouTube channel: [TL;DR – 3D](https://www.youtube.com/channel/UCFoE0SgDe0t82Ra2UAit57Q)[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## My Blender YouTube channel: [TL;DR – 3D](https://www.youtube.com/channel/UCFoE0SgDe0t82Ra2UAit57Q)[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 
 
 - [Blender 2.77: Rounded bevel verts/edges](https://www.youtube.com/watch?v=JmTkksH5jO0)
@@ -28,7 +28,7 @@
 - [Draw Vert Ngon Closed Path, Fill Face, Extrude: Semi-Organic Low Poly Plateau](https://www.youtube.com/watch?v=GB3s0-kYiI4)
 
 
-## [3D Coat Tips](../../wiki/3D-Coat-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [3D Coat Tips](../../wiki/3D-Coat-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Navigation](../../wiki/3D-Coat-Tips#navigation)
 - [Shaders](../../wiki/3D-Coat-Tips#shaders)
   * [Apply to all](../../wiki/3D-Coat-Tips#apply-to-all)
@@ -45,7 +45,7 @@
   * [Specific settings](../../wiki/3D-Coat-Tips#specific-settings)
 
 
-## [Animation](../../wiki/Animation)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [Animation](../../wiki/Animation)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Basic commands in Dope Sheet view:](../../wiki/Animation#basic-commands-in-dope-sheet-view)
 - [Dope Sheet Basic usage](../../wiki/Animation#dope-sheet-basic-usage)
 - [Action Editor](../../wiki/Animation#action-editor)
@@ -60,7 +60,7 @@
 - [Links](../../wiki/Animation#links)
 
 
-## [Fundamentals](../../wiki/Fundamentals)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [Fundamentals](../../wiki/Fundamentals)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Blender Quick Start](../../wiki/Fundamentals#blender-quick-start)
 - [General 3d mesh concepts](../../wiki/Fundamentals#general-3d-mesh-concepts)
   * [Ngons vs. Tris vs. Quads](../../wiki/Fundamentals#ngons-vs-tris-vs-quads)
@@ -72,12 +72,12 @@
 - [Cleaning up your mesh](../../wiki/Fundamentals#cleaning-up-your-mesh)
 
 
-## [Hotkey fixes](../../wiki/Hotkey-fixes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [Hotkey fixes](../../wiki/Hotkey-fixes)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Extrude](../../wiki/Hotkey-fixes#extrude)
   * [Hotkey fix](../../wiki/Hotkey-fixes#hotkey-fix)
 
 
-## [My 2016 addons, key bindings and prefs](../../wiki/My-2016-addons,-key-bindings-and-prefs)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [My 2016 addons, key bindings and prefs](../../wiki/My-2016-addons,-key-bindings-and-prefs)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Add-ons](../../wiki/My-2016-addons,-key-bindings-and-prefs#add-ons)
   * [Free](../../wiki/My-2016-addons,-key-bindings-and-prefs#free)
   * [Paid](../../wiki/My-2016-addons,-key-bindings-and-prefs#paid)
@@ -90,7 +90,7 @@
 - [Links](../../wiki/My-2016-addons,-key-bindings-and-prefs#links)
 
 
-## [Rigging](../../wiki/Rigging)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [Rigging](../../wiki/Rigging)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Prepping mesh for rig](../../wiki/Rigging#prepping-mesh-for-rig)
 - [Quick-start rigging TL;DR](../../wiki/Rigging#quick-start-rigging-tldr)
 - [Rigging tips](../../wiki/Rigging#rigging-tips)
@@ -119,7 +119,7 @@
 - [Links](../../wiki/Rigging#links)
 
 
-## [Setting up a Unity project for Git](../../wiki/Setting-up-a-Unity-project-for-Git)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [Setting up a Unity project for Git](../../wiki/Setting-up-a-Unity-project-for-Git)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [About](../../wiki/Setting-up-a-Unity-project-for-Git#about)
   * [Add Unity-specific `.gitignore` settings](../../wiki/Setting-up-a-Unity-project-for-Git#add-unity-specific-gitignore-settings)
   * [Configure Unity for version control](../../wiki/Setting-up-a-Unity-project-for-Git#configure-unity-for-version-control)
@@ -127,7 +127,7 @@
 - [Links](../../wiki/Setting-up-a-Unity-project-for-Git#links)
 
 
-## [Tips, tricks, techniques and notes](../../wiki/Tips,-tricks,-techniques-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [Tips, tricks, techniques and notes](../../wiki/Tips,-tricks,-techniques-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Naming, using scenes](../../wiki/Tips,-tricks,-techniques-and-notes#naming-using-scenes)
 - [Clear scale, rotation and position](../../wiki/Tips,-tricks,-techniques-and-notes#clear-scale-rotation-and-position)
 - [Pivot point origin](../../wiki/Tips,-tricks,-techniques-and-notes#pivot-point-origin)
@@ -214,7 +214,7 @@
 - [Maths in Blender fields](../../wiki/Tips,-tricks,-techniques-and-notes#maths-in-blender-fields)
 
 
-## [Unity tips and notes](../../wiki/Unity-tips-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [Unity tips and notes](../../wiki/Unity-tips-and-notes)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Get Unity version of project without opening it](../../wiki/Unity-tips-and-notes#get-unity-version-of-project-without-opening-it)
 - [Multiple versions of Unity](../../wiki/Unity-tips-and-notes#multiple-versions-of-unity)
 - [Blender/Unity Asset Organization](../../wiki/Unity-tips-and-notes#blenderunity-asset-organization)
@@ -229,12 +229,12 @@
 - [Colors](../../wiki/Unity-tips-and-notes#colors)
 
 
-## [UV Unwrapping Tips](../../wiki/UV-Unwrapping-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [UV Unwrapping Tips](../../wiki/UV-Unwrapping-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Blender UV Unwrapping](../../wiki/UV-Unwrapping-Tips#blender-uv-unwrapping)
 - [To be sorted](../../wiki/UV-Unwrapping-Tips#to-be-sorted)
 
 
-## [Voxel art in Blender 2.79](../../wiki/Voxel-art-in-Blender-2.79)&nbsp;[<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+## [Voxel art in Blender 2.79](../../wiki/Voxel-art-in-Blender-2.79)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
 - [Grid settings](../../wiki/Voxel-art-in-Blender-2.79#grid-settings)
   * [Grid snapping](../../wiki/Voxel-art-in-Blender-2.79#grid-snapping)
   * [Grid size](../../wiki/Voxel-art-in-Blender-2.79#grid-size)
