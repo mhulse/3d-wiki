@@ -16,7 +16,7 @@
     "markdown-toc": "^1.2.0",
     "natives": "^1.1.6",
     "request": "^2.87.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "unzipper": "^0.10.1",
     "youtube-channel-videos": "^1.0.0"
   }
